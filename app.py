@@ -4,8 +4,8 @@ import joblib
 import matplotlib.pyplot as plt
 
 # Load model
-model = joblib.load("C:/Users/DELL/antioxidant_model.pkl")
-scaler = joblib.load("C:/Users/DELL/scaler.pkl")
+model = joblib.load("antioxidant_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # Feature names
 feature_names = ["MolWeight", "HDonors", "HAcceptors", "LogP"]
