@@ -22,3 +22,5 @@ It uses molecular features such as molecular weight, hydrogen donors, hydrogen a
 👉 https://your-streamlit-link
 
 ## 📁 Project Structure
+## 📸 App Preview
+![App Screenshot](app.png)
