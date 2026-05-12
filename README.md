@@ -10,25 +10,6 @@ This project was developed to explore how Artificial Intelligence and Machine Le
 
 The **AI-Based Antioxidant Activity Prediction System** uses machine learning techniques to predict antioxidant activity based on molecular features.
 
-The project analyzes important chemical properties such as:
-
-* Molecular Weight
-* Hydrogen Bond Donors
-* Hydrogen Bond Acceptors
-* LogP Values
-
-Using these features, the system predicts antioxidant activity through a trained machine learning model.
-
-This project combines:
-
-* Machine Learning
-* Healthcare-related analytics
-* Predictive modeling
-* Python web application development
-
-into a practical AI project.
-
----
 
 # 📂 Project Structure
 
@@ -56,18 +37,6 @@ antioxidant-ai-project/
 
 ---
 
-## 🧪 Molecular Feature Analysis
-
-The system works using molecular properties such as:
-
-* Molecular Weight
-* Hydrogen Donors
-* Hydrogen Acceptors
-* LogP
-
-These values are processed through the trained ML model for prediction.
-
----
 
 ## 🌐 Interactive Web Application
 
@@ -131,114 +100,7 @@ Contains all required Python dependencies.
 
 ---
 
-# ⚙️ Installation Guide
 
-## Step 1 — Clone Repository
-
-```bash id="y74wxh"
-git clone https://github.com/ruchitaclub/antioxidant-ai-project.git
-```
-
----
-
-## Step 2 — Open Project Folder
-
-```bash id="x5d6v9"
-cd antioxidant-ai-project
-```
-
----
-
-## Step 3 — Install Dependencies
-
-```bash id="wcmn8d"
-pip install -r requirements.txt
-```
-
----
-
-## Step 4 — Run Application
-
-```bash id="5j1d3y"
-python app.py
-```
-
----
-
-# 🧪 Application Workflow
-
-## Step 1
-
-Enter molecular feature values.
-
-Example inputs:
-
-* Molecular Weight
-* Hydrogen Donors
-* Hydrogen Acceptors
-* LogP
-
----
-
-## Step 2
-
-The application preprocesses input data using the scaler model.
-
----
-
-## Step 3
-
-The trained machine learning model predicts antioxidant activity.
-
----
-
-## Step 4
-
-Prediction results are displayed through the application interface.
-
----
-
-# 📚 Learning Outcomes
-
-Through this project, you can learn:
-
-* Machine Learning model deployment
-* Feature scaling concepts
-* Pickle model handling
-* Healthcare AI concepts
-* Python-based prediction systems
-* User input handling
-* Scientific data prediction workflows
-
----
-
-# 🎯 Purpose of the Project
-
-The purpose of this project is to understand how machine learning can be applied in healthcare and scientific prediction systems.
-
-This project is useful for:
-
-* Machine Learning beginners
-* Healthcare AI learning
-* Prediction system practice
-* Python project development
-* Bioinformatics-related concepts
-
----
-
-# 🚀 Future Improvements
-
-Possible future enhancements:
-
-* Larger dataset integration
-* Advanced prediction models
-* Real-time chemical database support
-* Better visualization dashboards
-* Multiple antioxidant categories
-* Cloud deployment
-* Scientific report generation
-
----
 
 # 👩‍💻 Author
 
